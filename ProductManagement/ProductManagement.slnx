@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductManagement.NUnitTest/ProductManagement.NUnitTest.csproj" />
+  <Project Path="ProductManagement.XUnitTest/ProductManagement.XUnitTest.csproj" />
+  <Project Path="ProductManagement/ProductManagement.csproj" />
+</Solution>

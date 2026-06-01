@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C# 14 \u0026 .NET 10\\Practical (C#, .NET \u0026 Unit Testing)\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425EA699-836D-41E6-96A6-F1F54127F81C}|ProductManagement.XUnitTest\\ProductManagement.XUnitTest.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c# 14 \u0026 .net 10\\practical (c#, .net \u0026 unit testing)\\productmanagement\\productmanagement.xunittest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425EA699-836D-41E6-96A6-F1F54127F81C}|ProductManagement.XUnitTest\\ProductManagement.XUnitTest.csproj|solutionrelative:productmanagement.xunittest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ADA4C5-3C53-4063-B8A0-2C21A1D914C4}|ProductManagement.NUnitTest\\ProductManagement.NUnitTest.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\c# 14 \u0026 .net 10\\practical (c#, .net \u0026 unit testing)\\productmanagement\\productmanagement.nunittest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ADA4C5-3C53-4063-B8A0-2C21A1D914C4}|ProductManagement.NUnitTest\\ProductManagement.NUnitTest.csproj|solutionrelative:productmanagement.nunittest\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C# 14 \u0026 .NET 10\\Practical (C#, .NET \u0026 Unit Testing)\\ProductManagement\\ProductManagement.XUnitTest\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "ProductManagement.XUnitTest\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C# 14 \u0026 .NET 10\\Practical (C#, .NET \u0026 Unit Testing)\\ProductManagement\\ProductManagement.XUnitTest\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "ProductManagement.XUnitTest\\Services\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:55:35.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C# 14 \u0026 .NET 10\\Practical (C#, .NET \u0026 Unit Testing)\\ProductManagement\\ProductManagement.NUnitTest\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "ProductManagement.NUnitTest\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\C# 14 \u0026 .NET 10\\Practical (C#, .NET \u0026 Unit Testing)\\ProductManagement\\ProductManagement.NUnitTest\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "ProductManagement.NUnitTest\\Services\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:48:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
