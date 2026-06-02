@@ -213,3 +213,4 @@ C:\Users\shivang.chauhan\Desktop\Dot Net\C# 14 & .NET 10\Practical (C#, .NET & U
 C:\Users\shivang.chauhan\Desktop\Dot Net\C# 14 & .NET 10\Practical (C#, .NET & Unit Testing)\ProductManagement\ProductManagement.NUnitTest\obj\Debug\net10.0\ProductManagement.NUnitTest.pdb
 C:\Users\shivang.chauhan\Desktop\Dot Net\C# 14 & .NET 10\Practical (C#, .NET & Unit Testing)\ProductManagement\ProductManagement.NUnitTest\obj\Debug\net10.0\ProductManagement.NUnitTest.genruntimeconfig.cache
 C:\Users\shivang.chauhan\Desktop\Dot Net\C# 14 & .NET 10\Practical (C#, .NET & Unit Testing)\ProductManagement\ProductManagement.NUnitTest\obj\Debug\net10.0\ref\ProductManagement.NUnitTest.dll
+C:\Users\shivang.chauhan\Desktop\Dot Net\C# 14 & .NET 10\Practical (C#, .NET & Unit Testing)\ProductManagement\ProductManagement.NUnitTest\obj\Debug\net10.0\ProductManagement.NUnitTest.sourcelink.json
